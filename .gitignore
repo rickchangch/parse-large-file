@@ -1,0 +1,4 @@
+data/*
+!data/_sample.csv
+
+php/rules/*
